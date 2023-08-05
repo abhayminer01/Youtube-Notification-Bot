@@ -1,0 +1,6 @@
+{
+    "token" : "paste your bot token here",
+    "notificationChannel" : "discord notification channel id",
+    "hashtag" : "specific hashtag (change it to empty if u dont need)",
+    "videoFormat" : "`@everyone New video uploaded : ${video.title}\n${video.url}`"
+}
